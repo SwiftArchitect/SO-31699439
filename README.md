@@ -1,9 +1,12 @@
-# GameCenter Multiplayer Demonstration unsing GCHelper
+# GameCenter Multiplayer Demonstration using GCHelper
+
+![preview](https://i.stack.imgur.com/L4C8W.png)
 
 ---
 
 ### Stack Overflow Question 31699439
-Xcode project & source code related to [Gamekit Multi Player Step by Step Tutorial](http://stackoverflow.com/a/32260314/218152) anwser.
+
+Xcode project & source code related to [Gamekit Multi Player Step by Step Tutorial](http://stackoverflow.com/a/32260314/218152) answer.
 
 ---
 
@@ -16,6 +19,6 @@ Xcode project & source code related to [Gamekit Multi Player Step by Step Tutori
 
 **References:**
 
-- SO-31699439 on [Stack Overflow](http://stackoverflow.com/questions/31699439/gamecenter-multiplayer-stuck-on-starting-game)
+- [SO-31699439](http://stackoverflow.com/questions/31699439/gamecenter-multiplayer-stuck-on-starting-game) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
