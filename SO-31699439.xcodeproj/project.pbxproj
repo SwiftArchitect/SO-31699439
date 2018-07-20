@@ -13,6 +13,7 @@
 		DCD1A9C41B8FC64F00E6DB76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCD1A9C21B8FC64F00E6DB76 /* Main.storyboard */; };
 		DCD1A9C61B8FC64F00E6DB76 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCD1A9C51B8FC64F00E6DB76 /* Images.xcassets */; };
 		DCD1A9C91B8FC64F00E6DB76 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DCD1A9C71B8FC64F00E6DB76 /* LaunchScreen.xib */; };
+		DCFCE0902102A83400CDD8D0 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = DCFCE08F2102A83400CDD8D0 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DCD1A9C31B8FC64F00E6DB76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DCD1A9C51B8FC64F00E6DB76 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		DCD1A9C81B8FC64F00E6DB76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		DCFCE08F2102A83400CDD8D0 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
 		F389EE1F790BED81DDBA979B /* Pods_SO_31699439.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SO_31699439.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -78,6 +80,7 @@
 		DCD1A9BB1B8FC64F00E6DB76 /* SO-31699439 */ = {
 			isa = PBXGroup;
 			children = (
+				DCFCE08F2102A83400CDD8D0 /* Podfile */,
 				DCD1A9BE1B8FC64F00E6DB76 /* AppDelegate.swift */,
 				DCD1A9C01B8FC64F00E6DB76 /* ViewController.swift */,
 				DCD1A9C21B8FC64F00E6DB76 /* Main.storyboard */,
@@ -159,6 +162,7 @@
 			files = (
 				DCD1A9C41B8FC64F00E6DB76 /* Main.storyboard in Resources */,
 				DCD1A9C91B8FC64F00E6DB76 /* LaunchScreen.xib in Resources */,
+				DCFCE0902102A83400CDD8D0 /* Podfile in Resources */,
 				DCD1A9C61B8FC64F00E6DB76 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
